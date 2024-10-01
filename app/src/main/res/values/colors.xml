@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ciano">#0ac2b9</color>
+    <color name="lightBlue">#9ECFF6</color>
+<<<<<<< HEAD
+    <color name="darkBlue">#1C2980</color>
+    <color name="darkRed">#2e0000</color>
+
+=======
+>>>>>>> 9714e8c96778c19417c44a02f7333260abe22def
+
+</resources>
